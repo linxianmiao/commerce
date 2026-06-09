@@ -1,0 +1,16 @@
+{
+  "key": "about",
+  "title": {
+    "en": "About Us",
+    "zh": "关于我们",
+    "ja": "会社概要",
+    "ar": "من نحن"
+  },
+  "body": {
+    "en": "We are a global consumer electronics brand committed to quality, thoughtful design, and customer happiness. Our products are available across major marketplaces worldwide.",
+    "zh": "我们是一家面向全球的消费电子品牌，专注于品质、用心的设计与用户体验。我们的产品在全球主要电商平台均有销售。",
+    "ja": "私たちは品質、丁寧なデザイン、そして顧客満足にこだわるグローバルな家電ブランドです。製品は世界中の主要マーケットプレイスでご購入いただけます。",
+    "ar": "نحن علامة تجارية عالمية للإلكترونيات الاستهلاكية ملتزمة بالجودة والتصميم المدروس وسعادة العملاء. منتجاتنا متوفرة في كبرى المتاجر حول العالم."
+  },
+  "translatedLocales": ["zh", "ja", "ar"]
+}

@@ -1,0 +1,24 @@
+{
+  "nav": { "home": "Home", "products": "Products", "about": "About", "contact": "Contact" },
+  "home": {
+    "exploreProducts": "Explore Products",
+    "featuredTitle": "Featured Products",
+    "featuredSubtitle": "Discover our most popular products"
+  },
+  "products": {
+    "title": "Products",
+    "subtitle": "Browse our full range",
+    "all": "All"
+  },
+  "product": {
+    "buyOn": "Buy on {platform}",
+    "highlights": "Highlights",
+    "specifications": "Specifications",
+    "viewDetails": "View Details",
+    "backToProducts": "Back to Products",
+    "availableOn": "Available on"
+  },
+  "about": { "title": "About Us" },
+  "common": { "language": "Language" },
+  "footer": { "rights": "All rights reserved." }
+}

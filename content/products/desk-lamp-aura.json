@@ -1,0 +1,30 @@
+{
+  "slug": "desk-lamp-aura",
+  "sku": "HOM-DLA-01",
+  "name": {
+    "en": "Aura Desk Lamp",
+    "zh": "Aura 智能台灯"
+  },
+  "tagline": {
+    "en": "Light that adapts to you",
+    "zh": "随心调节的光线"
+  },
+  "category": "home",
+  "featured": false,
+  "order": 3,
+  "heroImage": "/products/placeholder.svg",
+  "gallery": [],
+  "highlights": [
+    { "en": "Flicker-free eye-care light", "zh": "无频闪护眼光源" },
+    { "en": "Adjustable color temperature", "zh": "色温无级可调" },
+    { "en": "USB-C fast charging port", "zh": "USB-C 快充接口" }
+  ],
+  "specs": [
+    { "label": { "en": "Power", "zh": "功率" }, "value": { "en": "12W" } },
+    { "label": { "en": "Color temperature", "zh": "色温" }, "value": { "en": "2700K–6500K" } }
+  ],
+  "buyLinks": {
+    "amazonUrl": "https://www.amazon.com/dp/EXAMPLE003"
+  },
+  "translatedLocales": ["zh"]
+}

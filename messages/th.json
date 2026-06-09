@@ -1,0 +1,24 @@
+{
+  "nav": { "home": "หน้าแรก", "products": "สินค้า", "about": "เกี่ยวกับเรา", "contact": "ติดต่อเรา" },
+  "home": {
+    "exploreProducts": "ดูสินค้า",
+    "featuredTitle": "สินค้าแนะนำ",
+    "featuredSubtitle": "ค้นพบสินค้ายอดนิยมของเรา"
+  },
+  "products": {
+    "title": "สินค้า",
+    "subtitle": "เลือกชมสินค้าทั้งหมด",
+    "all": "ทั้งหมด"
+  },
+  "product": {
+    "buyOn": "ซื้อที่ {platform}",
+    "highlights": "จุดเด่น",
+    "specifications": "ข้อมูลจำเพาะ",
+    "viewDetails": "ดูรายละเอียด",
+    "backToProducts": "กลับไปที่สินค้า",
+    "availableOn": "มีจำหน่ายที่"
+  },
+  "about": { "title": "เกี่ยวกับเรา" },
+  "common": { "language": "ภาษา" },
+  "footer": { "rights": "สงวนลิขสิทธิ์" }
+}

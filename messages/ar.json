@@ -1,0 +1,24 @@
+{
+  "nav": { "home": "الرئيسية", "products": "المنتجات", "about": "من نحن", "contact": "اتصل بنا" },
+  "home": {
+    "exploreProducts": "تصفح المنتجات",
+    "featuredTitle": "منتجات مميزة",
+    "featuredSubtitle": "اكتشف أكثر منتجاتنا شهرة"
+  },
+  "products": {
+    "title": "المنتجات",
+    "subtitle": "تصفح مجموعتنا الكاملة",
+    "all": "الكل"
+  },
+  "product": {
+    "buyOn": "اشترِ من {platform}",
+    "highlights": "أبرز المميزات",
+    "specifications": "المواصفات",
+    "viewDetails": "عرض التفاصيل",
+    "backToProducts": "العودة إلى المنتجات",
+    "availableOn": "متوفر على"
+  },
+  "about": { "title": "من نحن" },
+  "common": { "language": "اللغة" },
+  "footer": { "rights": "جميع الحقوق محفوظة." }
+}
