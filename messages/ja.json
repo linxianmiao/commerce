@@ -1,0 +1,24 @@
+{
+  "nav": { "home": "ホーム", "products": "製品", "about": "会社概要", "contact": "お問い合わせ" },
+  "home": {
+    "exploreProducts": "製品を見る",
+    "featuredTitle": "注目の製品",
+    "featuredSubtitle": "人気の製品をご覧ください"
+  },
+  "products": {
+    "title": "製品",
+    "subtitle": "すべての製品を見る",
+    "all": "すべて"
+  },
+  "product": {
+    "buyOn": "{platform}で購入",
+    "highlights": "ハイライト",
+    "specifications": "仕様",
+    "viewDetails": "詳細を見る",
+    "backToProducts": "製品一覧に戻る",
+    "availableOn": "購入先"
+  },
+  "about": { "title": "会社概要" },
+  "common": { "language": "言語" },
+  "footer": { "rights": "全著作権所有。" }
+}

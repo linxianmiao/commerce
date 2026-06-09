@@ -1,0 +1,16 @@
+{
+  "key": "home-hero",
+  "title": {
+    "en": "Premium gadgets for everyday life",
+    "zh": "为日常生活打造的高品质数码产品",
+    "ja": "日常を彩るプレミアムガジェット",
+    "ar": "أجهزة متميزة للحياة اليومية"
+  },
+  "body": {
+    "en": "Designed in-house, trusted worldwide. Explore our products and buy on your favorite marketplace.",
+    "zh": "自主设计，畅销全球。浏览我们的产品，在您喜爱的平台下单购买。",
+    "ja": "自社設計、世界中で信頼。製品をご覧いただき、お好きなマーケットプレイスでご購入ください。",
+    "ar": "تصميم داخلي وثقة عالمية. تصفح منتجاتنا واشترِ من متجرك المفضل."
+  },
+  "translatedLocales": ["zh", "ja", "ar"]
+}

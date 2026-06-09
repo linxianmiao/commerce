@@ -1,0 +1,36 @@
+{
+  "slug": "wireless-earbuds-pro",
+  "sku": "AUD-WEB-PRO",
+  "name": {
+    "en": "Wireless Earbuds Pro",
+    "zh": "无线耳机 Pro",
+    "ja": "ワイヤレスイヤホン Pro",
+    "ar": "سماعات أذن لاسلكية برو"
+  },
+  "tagline": {
+    "en": "Studio sound, all-day comfort",
+    "zh": "录音室级音质，全天舒适佩戴",
+    "ja": "スタジオ品質のサウンド、一日中快適",
+    "ar": "صوت احترافي وراحة طوال اليوم"
+  },
+  "category": "audio",
+  "featured": true,
+  "order": 1,
+  "heroImage": "/products/placeholder.svg",
+  "gallery": [],
+  "highlights": [
+    { "en": "Active noise cancellation", "zh": "主动降噪", "ja": "アクティブノイズキャンセリング", "ar": "إلغاء الضوضاء النشط" },
+    { "en": "36-hour total battery life", "zh": "36 小时总续航", "ja": "合計36時間のバッテリー", "ar": "عمر بطارية إجمالي 36 ساعة" },
+    { "en": "IPX5 water resistance", "zh": "IPX5 防水", "ja": "IPX5 防水", "ar": "مقاومة الماء IPX5" }
+  ],
+  "specs": [
+    { "label": { "en": "Battery", "zh": "电池", "ja": "バッテリー", "ar": "البطارية" }, "value": { "en": "36 hours", "zh": "36 小时", "ja": "36時間", "ar": "36 ساعة" } },
+    { "label": { "en": "Bluetooth", "zh": "蓝牙", "ja": "Bluetooth", "ar": "بلوتوث" }, "value": { "en": "5.4" } },
+    { "label": { "en": "Driver", "zh": "驱动单元", "ja": "ドライバー", "ar": "السماعة" }, "value": { "en": "11mm dynamic", "zh": "11mm 动圈", "ja": "11mm ダイナミック", "ar": "11 مم ديناميكي" } }
+  ],
+  "buyLinks": {
+    "amazonUrl": "https://www.amazon.com/dp/EXAMPLE001",
+    "shopeeUrl": "https://shopee.sg/product/EXAMPLE001"
+  },
+  "translatedLocales": ["zh", "ja", "ar"]
+}

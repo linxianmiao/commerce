@@ -1,0 +1,25 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "commerce",
+  "main": ".open-next/worker.js",
+  "compatibility_date": "2026-06-09",
+  "compatibility_flags": ["nodejs_compat", "global_fetch_strictly_public"],
+  "assets": {
+    "binding": "ASSETS",
+    "directory": ".open-next/assets"
+  },
+  "observability": { "enabled": true }
+
+  // ── ISR 缓存（启用 ISR 时）──
+  // 在 open-next.config.ts 配 r2IncrementalCache，并加：
+  // "r2_buckets": [{ "binding": "NEXT_INC_CACHE_R2_BUCKET", "bucket_name": "commerce-cache" }]
+  //
+  // ── 二期（询盘）──
+  // "d1_databases": [{ "binding": "DB", "database_name": "commerce-db", "database_id": "<id>" }],
+  // "vars": { "RESEND_FROM": "inquiry@example.com", "INQUIRY_TO": "sales@example.com" }
+  // RESEND_API_KEY / TURNSTILE_SECRET_KEY → wrangler secret put
+  //
+  // ── 三期（支付）──
+  // "kv_namespaces": [{ "binding": "SESSION" }]
+  // STRIPE_SECRET_KEY / STRIPE_WEBHOOK_SECRET → wrangler secret put
+}

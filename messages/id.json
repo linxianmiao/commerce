@@ -1,0 +1,24 @@
+{
+  "nav": { "home": "Beranda", "products": "Produk", "about": "Tentang Kami", "contact": "Kontak" },
+  "home": {
+    "exploreProducts": "Jelajahi Produk",
+    "featuredTitle": "Produk Unggulan",
+    "featuredSubtitle": "Temukan produk kami yang paling populer"
+  },
+  "products": {
+    "title": "Produk",
+    "subtitle": "Jelajahi seluruh rangkaian produk",
+    "all": "Semua"
+  },
+  "product": {
+    "buyOn": "Beli di {platform}",
+    "highlights": "Keunggulan",
+    "specifications": "Spesifikasi",
+    "viewDetails": "Lihat Detail",
+    "backToProducts": "Kembali ke Produk",
+    "availableOn": "Tersedia di"
+  },
+  "about": { "title": "Tentang Kami" },
+  "common": { "language": "Bahasa" },
+  "footer": { "rights": "Hak cipta dilindungi." }
+}

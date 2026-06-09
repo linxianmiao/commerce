@@ -1,0 +1,33 @@
+{
+  "slug": "smart-watch-active",
+  "sku": "WEA-SWA-01",
+  "name": {
+    "en": "Active Smart Watch",
+    "zh": "智能运动手表",
+    "ja": "アクティブスマートウォッチ"
+  },
+  "tagline": {
+    "en": "Track every move",
+    "zh": "记录每一次运动",
+    "ja": "すべての動きを記録"
+  },
+  "category": "wearables",
+  "featured": true,
+  "order": 2,
+  "heroImage": "/products/placeholder.svg",
+  "gallery": [],
+  "highlights": [
+    { "en": "1.8-inch AMOLED display", "zh": "1.8 英寸 AMOLED 屏幕", "ja": "1.8インチ AMOLED ディスプレイ" },
+    { "en": "14-day battery", "zh": "14 天续航", "ja": "14日間バッテリー" },
+    { "en": "100+ sport modes", "zh": "100+ 运动模式", "ja": "100以上のスポーツモード" }
+  ],
+  "specs": [
+    { "label": { "en": "Display", "zh": "屏幕", "ja": "ディスプレイ" }, "value": { "en": "1.8\" AMOLED" } },
+    { "label": { "en": "Battery", "zh": "电池", "ja": "バッテリー" }, "value": { "en": "14 days", "zh": "14 天", "ja": "14日" } },
+    { "label": { "en": "Water resistance", "zh": "防水", "ja": "防水" }, "value": { "en": "5 ATM" } }
+  ],
+  "buyLinks": {
+    "amazonUrl": "https://www.amazon.com/dp/EXAMPLE002"
+  },
+  "translatedLocales": ["zh", "ja"]
+}

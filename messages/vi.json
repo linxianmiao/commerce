@@ -1,0 +1,24 @@
+{
+  "nav": { "home": "Trang chủ", "products": "Sản phẩm", "about": "Về chúng tôi", "contact": "Liên hệ" },
+  "home": {
+    "exploreProducts": "Khám phá sản phẩm",
+    "featuredTitle": "Sản phẩm nổi bật",
+    "featuredSubtitle": "Khám phá những sản phẩm phổ biến nhất của chúng tôi"
+  },
+  "products": {
+    "title": "Sản phẩm",
+    "subtitle": "Xem toàn bộ sản phẩm",
+    "all": "Tất cả"
+  },
+  "product": {
+    "buyOn": "Mua trên {platform}",
+    "highlights": "Điểm nổi bật",
+    "specifications": "Thông số kỹ thuật",
+    "viewDetails": "Xem chi tiết",
+    "backToProducts": "Quay lại sản phẩm",
+    "availableOn": "Có bán tại"
+  },
+  "about": { "title": "Về chúng tôi" },
+  "common": { "language": "Ngôn ngữ" },
+  "footer": { "rights": "Bảo lưu mọi quyền." }
+}

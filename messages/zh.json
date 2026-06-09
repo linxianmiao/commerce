@@ -1,0 +1,24 @@
+{
+  "nav": { "home": "首页", "products": "产品", "about": "关于我们", "contact": "联系我们" },
+  "home": {
+    "exploreProducts": "浏览产品",
+    "featuredTitle": "精选产品",
+    "featuredSubtitle": "探索我们最受欢迎的产品"
+  },
+  "products": {
+    "title": "产品",
+    "subtitle": "浏览全部产品",
+    "all": "全部"
+  },
+  "product": {
+    "buyOn": "在 {platform} 购买",
+    "highlights": "产品亮点",
+    "specifications": "规格参数",
+    "viewDetails": "查看详情",
+    "backToProducts": "返回产品列表",
+    "availableOn": "购买渠道"
+  },
+  "about": { "title": "关于我们" },
+  "common": { "language": "语言" },
+  "footer": { "rights": "版权所有。" }
+}
